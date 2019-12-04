@@ -18,10 +18,12 @@
 - Find and select the image you want to add to your project.
 
 ## Periodically Updating a CDN Style Links
-
-
+- A CDN works by fetching static assets from your site's server and caching them on their servers. 
+- When a browser makes a request to visit your site, the static contents are served via the CDN rather than by your site.
+- This is faster because the CDN servers are globally distributed and serve as proxies that determine which server is located physically    closest to your visitor, thus delivering content on a speedier, more convenient network.
 
 ## Tools Used
+- Bootstrap
 
 ## Stack 
 
