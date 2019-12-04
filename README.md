@@ -23,8 +23,10 @@
 - This is faster because the CDN servers are globally distributed and serve as proxies that determine which server is located physically    closest to your visitor, thus delivering content on a speedier, more convenient network.
 
 ## Tools Used
-- Bootstrap
+- We used Bootstrap template
+- [Link](https://atmos.uw.edu/~tylersc/)
 
-## Stack 
+## Client
+- Russ Schuster <schuster1953@embarqmail.com> 
 
-## Process
+
