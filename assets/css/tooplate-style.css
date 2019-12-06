@@ -84,6 +84,17 @@ ul {
 ul li {
     display: inline-block;
 }
+.footerpage{
+    text-align: -webkit-right;
+}
+.linkcolor{
+    color: ghostwhite;
+    
+}
+.fontstyle{
+    color: ghostwhite;
+
+}
 
 html {
     -webkit-box-sizing: border-box;
