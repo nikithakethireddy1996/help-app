@@ -22,7 +22,7 @@
 - When a browser makes a request to visit your site, the static contents are served via the CDN rather than by your site.
 - This is faster because the CDN servers are globally distributed and serve as proxies that determine which server is located physically    closest to your visitor, thus delivering content on a speedier, more convenient network.
 
-## Tools Used
+## References
 - We used Bootstrap template
 - [Link](https://atmos.uw.edu/~tylersc/)
 
